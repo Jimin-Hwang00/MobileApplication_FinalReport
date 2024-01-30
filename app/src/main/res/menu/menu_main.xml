@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/twitter"
+        android:title="트위터 공유" />
+    <item
+        android:id="@+id/blog"
+        android:title="블로그 검색" />
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="movie_instruction">리뷰를 작성할 영화를 선택하세요.</string>
+    <string name="map_instruction">*영화관을 찾고 이름을 길게 눌러 선택하세요.\n 선택된 영화관은 빨간 마커로 확인할 수 있습니다.</string>
+    <string name="my_review_list_instruction">클릭하면 해당 리뷰 조회 및 수정이 가능합니다.\n길게 누르면 해당 리뷰 삭제가 가능합니다.</string>
+    <string name="client_id">z4kykUxnkFfr3YdEsM3T</string>
+    <string name="client_secret">gQUCnmenZA</string>
+    <string name="google_api_key">AIzaSyDomwPIxK5pGow5B9XCR9GlijtH7vtKzxY</string>
+    <string name="default_lat">37.606320</string>
+    <string name="default_lng">127.041808</string>
+</resources>
